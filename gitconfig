@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = johnhenry.charles@gmail.com
+	name = John Henry
